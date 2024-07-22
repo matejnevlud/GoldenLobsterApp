@@ -10,8 +10,11 @@
     "test": "jest"
   },
   "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.23.1",
     "react": "18.2.0",
-    "react-native": "0.74.2"
+    "react-native": "0.74.2",
+    "react-native-system-navigation-bar": "^2.6.4",
+    "react-native-webview": "github:react-native-webview/react-native-webview#pull/3318/head"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",

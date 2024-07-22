@@ -1,4 +1,11 @@
 {
   "name": "GoldenLobsterApp",
-  "displayName": "GoldenLobsterApp"
+  "displayName": "GoldenLobsterApp",
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "556c8575-7430-48ac-a82b-7c860def1662"
+      }
+    }
+  }
 }
